@@ -1,44 +1,21 @@
-Copyright (c) 2026 The Maximo Guys. All Rights Reserved.
+MIT License
 
-PROPRIETARY SOFTWARE LICENSE
+Copyright (c) 2026 TheMaximoGuys LLC
 
-This software and associated documentation files (the "Software") are the
-exclusive proprietary property of The Maximo Guys ("Owner").
+Permission is hereby granted, free of charge, to any person obtaining a copy
+of this software and associated documentation files (the "Software"), to deal
+in the Software without restriction, including without limitation the rights
+to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
+copies of the Software, and to permit persons to whom the Software is
+furnished to do so, subject to the following conditions:
 
-TERMS AND CONDITIONS:
+The above copyright notice and this permission notice shall be included in all
+copies or substantial portions of the Software.
 
-1. OWNERSHIP: The Software, including all source code, object code,
-   documentation, and related materials, is and shall remain the sole and
-   exclusive property of the Owner. All intellectual property rights,
-   including but not limited to copyrights, patents, trademarks, and trade
-   secrets, are owned by and reserved to the Owner.
-
-2. LICENSE GRANT: Subject to the terms of this license, the Owner grants
-   you a limited, non-exclusive, non-transferable, revocable license to
-   use the Software solely for its intended purpose of connecting to IBM
-   Maximo Application Suite instances via the Model Context Protocol.
-
-3. RESTRICTIONS: You may NOT, without prior written consent from the Owner:
-   a. Copy, modify, adapt, or create derivative works of the Software
-   b. Distribute, sublicense, lease, rent, or lend the Software
-   c. Reverse engineer, decompile, or disassemble the Software
-   d. Remove or alter any proprietary notices or labels on the Software
-   e. Use the Software for competitive analysis or to build competing products
-
-4. NO WARRANTY: THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY
-   KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF
-   MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT.
-
-5. LIMITATION OF LIABILITY: IN NO EVENT SHALL THE OWNER BE LIABLE FOR ANY
-   CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT
-   OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR
-   THE USE OR OTHER DEALINGS IN THE SOFTWARE.
-
-6. TERMINATION: This license is effective until terminated. It will terminate
-   automatically if you fail to comply with any term of this license. Upon
-   termination, you must destroy all copies of the Software.
-
-7. GOVERNING LAW: This license shall be governed by and construed in
-   accordance with the laws of the jurisdiction in which the Owner operates.
-
-For licensing inquiries, contact: info@themaximoguys.com
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
+IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
+FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
+AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
+LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
+OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
+SOFTWARE.

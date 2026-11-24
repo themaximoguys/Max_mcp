@@ -6,7 +6,7 @@
 
 #### The most comprehensive Model Context Protocol server for IBM Maximo Application Suite
 
-[![License: Proprietary](https://img.shields.io/badge/License-Proprietary-red.svg)](#license)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
 [![Node.js Version](https://img.shields.io/badge/node-%3E%3D18.0.0-brightgreen)](https://nodejs.org/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.2+-3178C6?logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
 [![MCP SDK](https://img.shields.io/badge/MCP_SDK-0.5+-blueviolet)](https://modelcontextprotocol.io/)
@@ -1115,9 +1115,9 @@ If you'd like to report a bug or request a feature, please contact **info@themax
 
 ## License
 
-Copyright (c) 2026 **The Maximo Guys**. All Rights Reserved.
+Released under the [MIT License](LICENSE). Free to use, modify and distribute.
 
-This is proprietary software. Unauthorized copying, modification, distribution, or use of this software is strictly prohibited. See the [LICENSE](LICENSE) file for full terms.
+Copyright (c) 2026 **TheMaximoGuys LLC**.
 
 ---
 

@@ -51,7 +51,7 @@
     "url": "https://github.com/themaximoguys/maximo-mcp/issues"
   },
   "author": "TheMaximoGuys <hello@themaximoguys.com>",
-  "license": "SEE LICENSE IN LICENSE",
+  "license": "MIT",
   "private": false,
   "publishConfig": {
     "access": "public"
