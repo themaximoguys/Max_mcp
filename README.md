@@ -1069,7 +1069,7 @@ If you discover a security vulnerability, please report it responsibly:
 
 ## Contributing
 
-This is proprietary software owned by The Maximo Guys. Contributions are accepted by invitation only.
+Contributions are welcome. See [CONTRIBUTING.md](CONTRIBUTING.md) for guidelines, and open an issue or pull request on GitHub.
 
 If you'd like to report a bug or request a feature, please contact **info@themaximoguys.com**.
 
@@ -1133,6 +1133,6 @@ Copyright (c) 2026 **TheMaximoGuys LLC**.
 
 **[Back to Top](#ibm-maximo-mas-9x-mcp-server)**
 
-Copyright (c) 2026 The Maximo Guys. All Rights Reserved.
+Copyright (c) 2026 TheMaximoGuys LLC · [MIT License](LICENSE)
 
 </div>
